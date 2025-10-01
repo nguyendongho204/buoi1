@@ -1,3 +1,3 @@
 "# Git Practice" 
 "" 
-"Gi?i thi?u: T“i l… <Nguy?n D“ng H?>, MSSV <222598>." 
+"Gi?i thi?u: Tâ€œi lâ€¦ <Nguyen Dong Ho>, MSSV <222598>." 
