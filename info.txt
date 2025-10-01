@@ -1,3 +1,4 @@
+ HEAD
 "H? v… tˆn: Nguy?n D“ng H?" 
  HEAD
 "S? th¡ch: an va ngu" 
@@ -5,3 +6,12 @@
 "S? th¡ch: choi" 
  feature-update-B
 "K? nang: Ng?" 
+
+"H? v… tˆn: Nguy?n D“ng H?" 
+
+"S? th¡ch: an va ngu" 
+
+"S? th¡ch: choi" 
+ feature-update-B
+"K? nang: Ng?" 
+ 6257431b6c99f9a3c4ae0874c8d7ae01f852f197
