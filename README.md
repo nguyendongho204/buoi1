@@ -1,3 +1,3 @@
 "# Git Practice" 
 "" 
-"giới thiệu: tôi là <Nguyendongho>, MSSV <222598>." 
+"giới thiệu: tôi là Nguyễn Đông Hồ, MSSV <222598>." 
