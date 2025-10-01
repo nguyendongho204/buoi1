@@ -1,7 +1,11 @@
 
 Đây là README được chỉnh sửa và hợp nhất từ cả hai nhánh.
 "Gi?i thi?u: T�i l� <Nguy?n D�ng H?>, MSSV <222598>." 
+<<<<<<< HEAD
 sở thich: ăn và ngủ
+=======
+sở thích: chơi
+>>>>>>> feature-update-B
 =======
 
 "Giới thiệu: Tôi là <Nguyễn Đông Hồ>, MSSV <222598>." 

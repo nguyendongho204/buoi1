@@ -1,3 +1,7 @@
 "H? v… tˆn: Nguy?n D“ng H?" 
+<<<<<<< HEAD
 "S? th¡ch: an va ngu" 
+=======
+"S? th¡ch: choi" 
+>>>>>>> feature-update-B
 "K? nang: Ng?" 
